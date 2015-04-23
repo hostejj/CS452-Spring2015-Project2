@@ -1,3 +1,9 @@
-name, date, description
+Johnathon Hoste, 4/22/2015, Project 22/2015
 
-be sure to include complete details of how to interact with your application
+Interaction:
+
+This project features a chess board with some missing squares and a piece placed on it.
+The squares a missing for an unknown reason that I think is related to have too long of a buffer or array.
+
+The piece on the board can be moved using the WASD keys in different directions.
+The view of the board can be changed by using the arrow keys.
